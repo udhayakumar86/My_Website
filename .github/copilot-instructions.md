@@ -40,3 +40,4 @@ This repository is a small static website composed of standalone HTML pages and 
 - Page + CSS pattern: sb1.html alongside sb1.css.
 
 If any section here is unclear or you'd like additional examples (more file-level pointers or a short contributor checklist), say which parts to expand and I will iterate.
+i need to add one image foe all menu_col in menu.html
